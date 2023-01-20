@@ -1,0 +1,7 @@
+https://docs.aave.com/developers/deployed-contracts/v3-testnet-addresses
+
+ PoolAddressesProvider-Aave --> '0xC911B590248d127aD18546B186cC6B324e99F02c' 
+
+for just taking loan and returning we have to give 1 usdc for fees to our contract first then allowed to take loan
+
+USDC--> '0x07865c6E87B9F70255377e024ace6630C1Eaa37F' 
